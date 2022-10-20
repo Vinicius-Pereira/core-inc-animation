@@ -2,9 +2,13 @@
 
 # Core Inc
 Uma ferramenta de algoritmos animados para estágio iniciais de aprendizado de algoritmos.
+<p align="center">
+  <img src="https://i.imgur.com/rJX0lqr.gif">
+</p>
 
 ## Tecnologias Utilizadas
-Softwares e linguagens utilizadas neste projeto e na plataforma de testes disponível <a target="blank" href="https://vinicius-pereira.github.io/portal-core-inc/">aqui!</a>
+Softwares e linguagens utilizadas neste projeto e na plataforma de testes.
+
 ### Biblioteca de Animações
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
